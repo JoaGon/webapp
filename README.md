@@ -1,3 +1,8 @@
+# Create WebApp to login and fetch data from server with React
+
+React is a popular framework for creating user interfaces in modular components. In this sample application, you will create a web application to login and fetch the data with the best practices from Swagger.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
